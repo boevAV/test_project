@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://beust.com/testng/testng-1.0.dtd">
+<suite name="Suite_UI_4">
+    <test name="UITests with Steps">
+        <classes>
+            <class name="fourth_homework.Task1"></class>
+            <class name="fourth_homework.Task2"></class>
+            <class name="fourth_homework.BadTest"></class>
+        </classes>
+    </test>
+</suite>
